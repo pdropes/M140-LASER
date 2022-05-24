@@ -1,5 +1,4 @@
-# M140-LASER
-M140 2W nichia
+2W LASER - M140 Nichia
 
 <img src="M140-V2.jpg" width=640>
 
